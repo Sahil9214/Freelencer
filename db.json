@@ -1,0 +1,63 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "hourly_rate": 25,
+        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRckYzhxEg9mhHrT6hIhTMn212K2KdU9KqwTmS8QUzx&s",
+        "isBooked": true
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "password": "password",
+        "profession": "Graphic Designer",
+        "skills": [
+          "Photoshop",
+          "Illustrator"
+        ],
+        "hourly_rate": 30,
+        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG26nDizkR8OneYZVC3AcHfMgRE2mk-kwfgtveEu1M&s",
+        "isBooked": true
+      },
+      {
+        "name": "utkarsh",
+        "email": "utkarshsinghal123@gmail.com",
+        "password": "utkarsh123",
+        "profession": "Web Developer",
+        "skills": [
+          "java",
+          "ruby",
+          "Hashh map",
+          "AI"
+        ],
+        "hourly_rate": "35",
+        "profile_picture": "https://avatars.githubusercontent.com/u/106021674?v=4",
+        "id": 3,
+        "isBooked": false
+      },
+      {
+        "name": "Bhumi",
+        "email": "bhumi123@gmail.com",
+        "password": "bhum123",
+        "profession": "Student",
+        "skills": [
+          "gaming",
+          "Coooking food"
+        ],
+        "hourly_rate": "450",
+        "profile_picture": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "id": 4,
+        "isBooked": false
+      }
+    ]
+  }
